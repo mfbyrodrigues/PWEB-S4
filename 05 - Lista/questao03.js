@@ -18,4 +18,5 @@ function parecer (presenca) {
     }
 }
 
-parecer (presenca)
+
+parecer (presenca);
