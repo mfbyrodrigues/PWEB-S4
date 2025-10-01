@@ -2,10 +2,10 @@
 
 let aluno = {
 
-    "nome": "Fernanda",
-    "idade": 18,
-    "curso": "Ciência da Computação",
-    "nota_final": 9
+    nome: "Fernanda",
+    idade: 18,
+    curso: "Ciência da Computação",
+    nota_final: 9
 };
 
 console.log (aluno);
@@ -24,4 +24,5 @@ function verificarParecer (nota_final) {
 }
 
 parecerVerificado = verificarParecer(aluno.nota_final);
+
 console.log (parecerVerificado);
